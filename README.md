@@ -1,2 +1,2 @@
-# chatGPT_result
-chatGPT in Chinese judicial examination
+# ChatGPT_result
+ChatGPT in Chinese judicial examination
