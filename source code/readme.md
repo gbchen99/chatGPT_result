@@ -36,3 +36,5 @@ parameter in huggingface.
 #### 3. Model Structure
 For more information, please see the paper.
 
+### 4. Code and Checkpoint
+https://drive.google.com/drive/folders/14GK85CeFjPaJRPnJ-FWLn1icMP-XMK-S?usp=sharing
