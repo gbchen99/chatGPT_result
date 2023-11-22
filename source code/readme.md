@@ -14,7 +14,7 @@ The default is to execute the test set directly, just run the script directly vi
 ### 3. Others
 The trained model weights are saved in `output\DeBERTa-v2-97M-Chinese`.
 
-Note: This weight is for `All-possible MCQs`, `single MCQs` cannot be uploaded due to space limitation.
+Note: Default weight is for `All-possible MCQs`, `single MCQs` needs to change the corresponding path.
 
 ### 4. Run Result Output Path
 
